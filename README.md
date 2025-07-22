@@ -19,6 +19,7 @@ Fun fact: I'm 1800 ELO in chess
 ## Top Projects
 
 [![**BetterGitSetup**](https://github-readme-stats.vercel.app/api/pin/?username=NoamBouillet&repo=BetterGitSetup&theme=dark)](https://github.com/NoamBouillet/BetterGitSetup)
+[![**SpaceCake**](https://github-readme-stats.vercel.app/api/pin/?username=NoamBouillet&repo=SpaceCake&theme=dark)](https://github.com/NoamBouillet/SpaceCake)
 
 ## GitHub Stats
 
