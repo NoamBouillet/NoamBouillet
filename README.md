@@ -1,6 +1,9 @@
+# Hi !
+I'm Noam, i'm a 2nd year CS Student at Epitech, currently with a GPA of 3.88/4.
+I'm passionate about a lot of things in IT, and i'm looking for projects that make sense.
+
 # 💫 About Me:
 I’m working on a pentest lab : MyActiveDirectory<br>I’m currently learning C# and Angular for .NET websites, as well as React for AI dashboards<br>I’m looking to collaborate on red team projects, as well as on AI developpment.<br>You can reach me at noambouillet@gmail.com<br>Know about my experiences: [My Resume](https://raw.githubusercontent.com/NoamBouillet/NoamBouillet/main/CV_NoamBouilletDevJunior.pdf)<br>Fun fact: I'm 1800 ELO in chess
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noambouillet/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noam.bouillet@epitech.eu) 
