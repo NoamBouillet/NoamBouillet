@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Noam**, a 2nd year Computer Science Student at Epitech, currently with a GPA of 3.88/4.  
+I'm **Noam**, a 17yo 2nd year Computer Science Student at Epitech.  
 I'm passionate about technology and learning, I'm constantly exploring new concepts and tools to enhance my skill set!
 
 ## About Me
