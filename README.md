@@ -1,16 +1,35 @@
-# Hi !
-I'm Noam, i'm a 2nd year CS Student at Epitech, currently with a GPA of 3.88/4.  
-I'm passionate about a lot of things in IT, and i'm looking for projects that make sense.
+## Hi there! 👋
 
-# 💫 About Me:
-I’m working on a pentest lab : MyActiveDirectory<br>I’m currently learning C# and Angular for .NET websites, as well as React for AI dashboards<br>I’m looking to collaborate on red team projects, as well as on AI developpment.<br>You can reach me at noambouillet@gmail.com<br>Know about my experiences: [My Resume](https://raw.githubusercontent.com/NoamBouillet/NoamBouillet/main/CV_NoamBouilletDevJunior.pdf)<br>Fun fact: I'm 1800 ELO in chess
+I'm **Noam**, a 2nd year Computer Science Student at Epitech, currently with a GPA of 3.88/4.  
+I'm passionate about technology and learning, I'm constantly exploring new concepts and tools to enhance my skill set!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noambouillet/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noam.bouillet@epitech.eu) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2300599C.svg?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBouillet&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I love working on automatization tools to speed up my everyday tasks!  
+I’m currently learning AWS features and Kubernetes to enhance my Cloud knowledge.  
+I’m looking to collaborate on fullstack or scripting projects, as those are my best skills for now.  
+You can reach me at noambouillet@gmail.com  
+Know about my experiences: [My Resume](https://raw.githubusercontent.com/NoamBouillet/NoamBouillet/main/CV_NoamBouilletDevJunior.pdf)  
+Fun fact: I'm 1800 ELO in chess
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,bash,js,ts,git,github,githubactions,gitlab,angular,react,nodejs,nextjs,dotnet,docker,kubernetes,aws,terraform&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+[![**BetterGitSetup**](https://github-readme-stats.vercel.app/api/pin/?username=NoamBouillet&repo=BetterGitSetup&theme=dark)](https://github.com/NoamBouillet/BetterGitSetup)
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamBouillet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Pushed updates to [**BetterGitSetup**](https://github.com/NoamBouillet/BetterGitSetup) with new features.
+- Forked the repository [**Corewar**](https://github.com/NoamBouillet/Corewar), fixing a bug on loading invalid champions.
+- Created [**Popeye**](https://github.com/NoamBouillet/Popeye), added a README to describe the project.
+
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/noambouillet" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
