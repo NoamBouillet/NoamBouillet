@@ -1,5 +1,5 @@
 # Hi !
-I'm Noam, i'm a 2nd year CS Student at Epitech, currently with a GPA of 3.88/4.
+I'm Noam, i'm a 2nd year CS Student at Epitech, currently with a GPA of 3.88/4.  
 I'm passionate about a lot of things in IT, and i'm looking for projects that make sense.
 
 # 💫 About Me:
