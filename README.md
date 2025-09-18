@@ -6,8 +6,8 @@ I'm passionate about technology and learning, I'm constantly exploring new conce
 ## About Me
 
 - I love working on automatization tools to speed up my everyday tasks!  
-- I’m currently learning AWS features and Kubernetes to enhance my Cloud knowledge.  
-- I’m looking to collaborate on fullstack or scripting projects, as those are my best skills for now.  
+- I’m currently learning cybersecurity, long live CTFs.  
+- I’m looking to collaborate on nothing, except i guess fullstack projects if you have enough money to pay me.  
 - You can reach me at noambouillet@gmail.com  
 - Know about my experiences: [My Resume](https://raw.githubusercontent.com/NoamBouillet/NoamBouillet/main/CV_NoamBouilletDevJunior.pdf)  
 - Fun fact: I'm 1800 ELO in chess
